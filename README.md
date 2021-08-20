@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ilyaryan
-- 👀 I’m interested in python integrated cybersecurity
-- 🌱 I’m currently learning cybersecurity
+- 👋 Hi, I’m @aryan
 - 📫 How to reach me: twitter @aryanuwu
 
 <!---
